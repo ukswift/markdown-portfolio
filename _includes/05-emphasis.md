@@ -1,6 +1,6 @@
 Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
 - **Programming languages**
-  - *Python*
+  - Python
   - Php
   - c
 - **Web development**
@@ -8,3 +8,5 @@ Write out some of your awesome attributes, and use emphasis (like bold or italic
   - CSS
   - Bootstrap
   - Javscript
+- **Project**
+  - Blogging website which has search and follow features, password encryption and server side validation using HTML, CSS, Bootstrap, Php
