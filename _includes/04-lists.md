@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- Introduction to algorithms
+- The demigod diaries
+- Revolution 2020
