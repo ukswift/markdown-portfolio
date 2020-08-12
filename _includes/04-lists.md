@@ -1,5 +1,6 @@
-- Introduction to algorithms
-- Python algorithms
-- Revolution 2020
-- Three mistakes of my life
-- Half girlfriend
+-- **Books liked**
+  - Introduction to algorithms
+  - Python algorithms
+  - Revolution 2020
+  - Three mistakes of my life
+  - Half girlfriend
