@@ -1,3 +1,5 @@
 - Introduction to algorithms
-- The demigod diaries
+- Python algorithms
 - Revolution 2020
+- Three mistakes of my life
+- Half girlfriend
